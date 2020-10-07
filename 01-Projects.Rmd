@@ -1,0 +1,13 @@
+# Պրոյեկտներ {-#ch:projects}
+
+## Opinion Dynamics {-#proj:hayk}
+
+**Supervisor**: [Hayk Saribekyan](https://www.cl.cam.ac.uk/~hs586/)
+
+blabla
+
+
+## Քվանտային համակարգիչներ մեքենայական ուսուցման բլոկչեյնի միջոցով {-#proj:fast}
+**Ղեկավար**:
+
+....

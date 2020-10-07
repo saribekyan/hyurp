@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  css: tufte.css
+  fontsettings:
+    theme: white
+    family: sans
+    size: 1
+  # includes:
+    # before_body: mathjax_header.html
+  config:
+    toc:
+      before: |
+        <li><a href="./">HyURP</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/saribekyan/hyurp/edit/main/%s
